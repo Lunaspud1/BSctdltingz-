@@ -1,6 +1,5 @@
-Name:
-Address:
-Location:
-Date of Birth:
-Account Number:
-Sort Code:
+Name:AAAAAAAA
+Address:BBBBBBB
+Location:CCCCCCC
+Date of Birth:DDDDDDD
+Account Number:EEEEEEEEE
